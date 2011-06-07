@@ -1,0 +1,23 @@
+sinatra-pow-powder is just template Sinatra app works with Pow
+--------------------------------------------------------------------------------------------
+
+try 
+``` 
+git clone git://github.com/marutanm/sinatra-pow-powder.git
+```
+
+[Powder](https://github.com/Rodreegez/powder) is better way to use [Pow](http://pow.cx/)
+
+```
+$ gem install powder
+```
+
+create a symblic link to ~/.pow/ and open in browser
+
+```
+$ cd sinatra-pow-powder
+$ powder
+$ powder open
+```
+
+It works!!
